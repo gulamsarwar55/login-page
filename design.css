@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#para{
+    text-align: center;
+    line-height: 2em;
+    margin-top: 20%;
+    background-color: rgb(237, 152, 95);
+    border-radius: 100px;
+}
+
+body{
+    background-color: rgb(89, 49, 83);
+}
+
+.container{
+    
+
+}
+
+#btn{
+    display: flex;
+    margin-left: 47%;
+    gap: 10px
+}
+
+#kali{
+    width: 60px;
+    height: 20px;
+    margin-top: 10px;
+}
+p{
+    font-size: 10px;
+}
+
+
+#sbt{
+    font-size: 15px;
+    color: green;
+    
+}
